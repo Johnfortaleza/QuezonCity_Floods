@@ -69,7 +69,7 @@ SETTINGS = {
             "IBF_API_URL": IBF_URL,
             "PASSWORD": IBF_PASSWORD,
             "mock": False,
-            "if_mock_trigger": False,
+            "if_mock_trigger": True,
             "placeCodeInitial": 'MWI',
             "glofasReturnPeriod":'rl5',
             "placecodeLen":6, #LENGTH OF CHARS IN ADMIN3 PLACECODE -LENGTH OF CHARS IN COUNTRYCODEiso
